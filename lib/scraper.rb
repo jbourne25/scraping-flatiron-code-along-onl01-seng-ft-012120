@@ -45,9 +45,9 @@ class Scraper
       end
     end
   end
-   binding.pry 
+   
 end
 
 Scraper.new.print_courses 
 
-
+binding.pry 
